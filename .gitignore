@@ -1,0 +1,6 @@
+__pycache__/
+
+venv/
+
+# Importable versions of notebooks
+src/*.py
